@@ -1,4 +1,4 @@
-[Puzzle] (http://adventofcode.com/2017/day/1)
+[Puzzle](http://adventofcode.com/2017/day/1)
 
 ## Time Spent
 ~34 minutes
