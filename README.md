@@ -6,10 +6,10 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 
 1. Go
 2. D
-3. Python3
+3. Fortran
 4. OCaml
-5. php
-6. Kotlin
+5. Julia
+6. Cobol
 7. Standard ML
 8. Lua
 9. Perl
