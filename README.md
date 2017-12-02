@@ -51,4 +51,4 @@ Here are some people doing the same challenge:
 * [nickrobson](https://github.com/nickrobson/adventofcode-2017)
 * [Vilsol](https://github.com/Vilsol/AdventOfCode2017)
 * [aaomidi](https://github.com/aaomidi/Advent-of-Code-2017)
-* [DarkSeraphim](https://raw.githubusercontent.com/DarkSeraphim/Advent-of-Code-2017)
+* [DarkSeraphim](https://github.com/DarkSeraphim/Advent-of-Code-2017)
